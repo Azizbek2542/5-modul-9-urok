@@ -1,0 +1,20 @@
+@media (max-width: 600px) {
+    .container {
+        width: 40vw !important;
+        font-size: 20px !important;
+    }
+}
+
+@media (min-width: 601px) {
+    .container {
+        width: fit-content !important;
+        font-size: 40px !important;
+    }
+}
+
+@media (max-width: 520px) {
+    .container {
+        width: 100vw !important;
+        font-size: 30px !important;
+    }
+}
